@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: reliveVault
+  profiles:
+    active: dev
+  cloud:
+    vault:
+      scheme: http
+      uri: http://47.98.219.73:8200
+#      generic:
+#        enabled: true
+#        application-name: vaultApplication
+#        default-context: testVault
+#        backend: secret
+#        profile-separator: "/"
+      kv:
+        enabled: true
+        backend: secret
+        profile-separator: '/'
+        default-context: application
+        application-name: my-app
+      authentication: token
+      token: s.nJk8hqgSgUGBEtsT6pOwU4Tn
