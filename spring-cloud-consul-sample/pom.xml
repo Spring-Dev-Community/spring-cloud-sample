@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>spring-cloud-eureka-sample</artifactId>
+    <artifactId>spring-cloud-consul-sample</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
