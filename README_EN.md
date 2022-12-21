@@ -17,7 +17,7 @@ the above, the modules here cover many other aspects of Spring Cloud.
 
 | Spring Boot  | Spring Cloud  | 
 | ---------------- | ----------------- |
-| 2.7.6           | 2021.0.5          | 
+| 3.0.0           | 2022.0.0          | 
 
 ## Building from Source
 
