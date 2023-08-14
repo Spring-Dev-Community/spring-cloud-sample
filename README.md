@@ -16,7 +16,7 @@ Vault。除了上述之外， 这里的模块还涵盖了 Spring Cloud 的许多
 
 | Spring Boot 版本  | Spring Cloud 版本  | 
 | ---------------- | ----------------- |
-| 3.0.0          | 2022.0.0         | 
+| 3.0.2          | 2022.0.1         | 
 
 ## 构建项目
 
@@ -24,10 +24,10 @@ spring-cloud-sample 使用基于 [Maven](https://maven.apache.org/) 的构建系
 
 ### 先决条件
 
-[Git](https://help.github.com/set-up-git-redirect) 和 [JDK8](https://www.oracle.com/technetwork/java/javase/downloads)
+[Git](https://help.github.com/set-up-git-redirect) 和 [JDK17](https://www.oracle.com/technetwork/java/javase/downloads)
 构建。
 
-确保您的`JAVA_HOME`环境变量指向 `jdk1.8.0` 从 JDK 下载中提取的文件夹。
+确保您的`JAVA_HOME`环境变量指向 `jdk-17.0.5` 从 JDK 下载中提取的文件夹。
 
 ### 检查来源
 

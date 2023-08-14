@@ -17,7 +17,7 @@ the above, the modules here cover many other aspects of Spring Cloud.
 
 | Spring Boot  | Spring Cloud  | 
 | ---------------- | ----------------- |
-| 3.0.0           | 2022.0.0          | 
+| 3.0.2           | 2022.0.1          | 
 
 ## Building from Source
 
@@ -26,9 +26,9 @@ spring-cloud-sample uses a [Maven](https://maven.apache.org/) based build system
 ### Prerequisites
 
 [Git](https://help.github.com/set-up-git-redirect) and
-the [JDK8 build](https://www.oracle.com/technetwork/java/javase/downloads).
+the [JDK17 build](https://www.oracle.com/technetwork/java/javase/downloads).
 
-Be sure that your `JAVA_HOME` environment variable points to the `jdk1.8.0` folder extracted from the JDK download.
+Be sure that your `JAVA_HOME` environment variable points to the `jdk-17.0.5` folder extracted from the JDK download.
 
 ### Check out sources
 
