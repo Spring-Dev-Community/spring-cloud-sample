@@ -10,9 +10,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>spring-cloud-consul</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>dynamic-config</module>
+    </modules>
 
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>17</java.version>
     </properties>
 
 </project>
