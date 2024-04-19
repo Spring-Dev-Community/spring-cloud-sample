@@ -1,4 +1,4 @@
-package com.relive.csrf;
+package com.relive27.csrf;
 
 import org.springframework.core.io.buffer.DataBuffer;
 import org.springframework.core.io.buffer.DataBufferFactory;
@@ -14,7 +14,7 @@ import reactor.core.publisher.Mono;
 import java.nio.charset.Charset;
 
 /**
- * @author: ReLive
+ * @author: ReLive27
  * @date: 2022/2/21 7:36 下午
  */
 public class CsrfServerAccessDeniedHandler implements ServerAccessDeniedHandler {

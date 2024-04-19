@@ -1,4 +1,4 @@
-package com.relive.csrf;
+package com.relive27.csrf;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseCookie;
@@ -12,7 +12,7 @@ import reactor.core.publisher.Mono;
 import java.time.Duration;
 
 /**
- * @author: ReLive
+ * @author: ReLive27
  * @date: 2022/3/11 12:46 下午
  */
 @Slf4j

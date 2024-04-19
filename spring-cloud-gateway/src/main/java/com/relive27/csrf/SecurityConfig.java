@@ -1,4 +1,4 @@
-package com.relive.csrf;
+package com.relive27.csrf;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -8,7 +8,7 @@ import org.springframework.security.web.server.SecurityWebFilterChain;
 import org.springframework.security.web.server.csrf.CookieServerCsrfTokenRepository;
 
 /**
- * @author: ReLive
+ * @author: ReLive27
  * @date: 2022/2/21 6:53 下午
  */
 @Configuration
